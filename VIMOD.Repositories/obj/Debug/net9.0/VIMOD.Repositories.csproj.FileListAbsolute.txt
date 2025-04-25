@@ -1,0 +1,38 @@
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2025 - UPN\CALIDAD Y PRUEBAS DE SOFTWARE\SEMANA 1\VIMOD.Web\VIMOD.Repositories\bin\Debug\net9.0\VIMOD.Repositories.deps.json
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2025 - UPN\CALIDAD Y PRUEBAS DE SOFTWARE\SEMANA 1\VIMOD.Web\VIMOD.Repositories\bin\Debug\net9.0\VIMOD.Repositories.runtimeconfig.json
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2025 - UPN\CALIDAD Y PRUEBAS DE SOFTWARE\SEMANA 1\VIMOD.Web\VIMOD.Repositories\bin\Debug\net9.0\VIMOD.Repositories.dll
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2025 - UPN\CALIDAD Y PRUEBAS DE SOFTWARE\SEMANA 1\VIMOD.Web\VIMOD.Repositories\bin\Debug\net9.0\VIMOD.Repositories.pdb
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2025 - UPN\CALIDAD Y PRUEBAS DE SOFTWARE\SEMANA 1\VIMOD.Web\VIMOD.Repositories\bin\Debug\net9.0\VIMOD.Domain.dll
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2025 - UPN\CALIDAD Y PRUEBAS DE SOFTWARE\SEMANA 1\VIMOD.Web\VIMOD.Repositories\bin\Debug\net9.0\VIMOD.Infraestructure.dll
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2025 - UPN\CALIDAD Y PRUEBAS DE SOFTWARE\SEMANA 1\VIMOD.Web\VIMOD.Repositories\bin\Debug\net9.0\VIMOD.Domain.pdb
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2025 - UPN\CALIDAD Y PRUEBAS DE SOFTWARE\SEMANA 1\VIMOD.Web\VIMOD.Repositories\bin\Debug\net9.0\VIMOD.Infraestructure.pdb
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2025 - UPN\CALIDAD Y PRUEBAS DE SOFTWARE\SEMANA 1\VIMOD.Web\VIMOD.Repositories\obj\Debug\net9.0\VIMOD.Repositories.csproj.AssemblyReference.cache
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2025 - UPN\CALIDAD Y PRUEBAS DE SOFTWARE\SEMANA 1\VIMOD.Web\VIMOD.Repositories\obj\Debug\net9.0\VIMOD.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2025 - UPN\CALIDAD Y PRUEBAS DE SOFTWARE\SEMANA 1\VIMOD.Web\VIMOD.Repositories\obj\Debug\net9.0\VIMOD.Repositories.AssemblyInfoInputs.cache
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2025 - UPN\CALIDAD Y PRUEBAS DE SOFTWARE\SEMANA 1\VIMOD.Web\VIMOD.Repositories\obj\Debug\net9.0\VIMOD.Repositories.AssemblyInfo.cs
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2025 - UPN\CALIDAD Y PRUEBAS DE SOFTWARE\SEMANA 1\VIMOD.Web\VIMOD.Repositories\obj\Debug\net9.0\VIMOD.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2025 - UPN\CALIDAD Y PRUEBAS DE SOFTWARE\SEMANA 1\VIMOD.Web\VIMOD.Repositories\obj\Debug\net9.0\VIMOD.Re.07FA3D5B.Up2Date
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2025 - UPN\CALIDAD Y PRUEBAS DE SOFTWARE\SEMANA 1\VIMOD.Web\VIMOD.Repositories\obj\Debug\net9.0\VIMOD.Repositories.dll
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2025 - UPN\CALIDAD Y PRUEBAS DE SOFTWARE\SEMANA 1\VIMOD.Web\VIMOD.Repositories\obj\Debug\net9.0\refint\VIMOD.Repositories.dll
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2025 - UPN\CALIDAD Y PRUEBAS DE SOFTWARE\SEMANA 1\VIMOD.Web\VIMOD.Repositories\obj\Debug\net9.0\VIMOD.Repositories.pdb
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2025 - UPN\CALIDAD Y PRUEBAS DE SOFTWARE\SEMANA 1\VIMOD.Web\VIMOD.Repositories\obj\Debug\net9.0\VIMOD.Repositories.genruntimeconfig.cache
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2025 - UPN\CALIDAD Y PRUEBAS DE SOFTWARE\SEMANA 1\VIMOD.Web\VIMOD.Repositories\obj\Debug\net9.0\ref\VIMOD.Repositories.dll
+C:\proyecto\VIMOD.Web\VIMOD.Repositories\bin\Debug\net9.0\VIMOD.Repositories.deps.json
+C:\proyecto\VIMOD.Web\VIMOD.Repositories\bin\Debug\net9.0\VIMOD.Repositories.runtimeconfig.json
+C:\proyecto\VIMOD.Web\VIMOD.Repositories\bin\Debug\net9.0\VIMOD.Repositories.dll
+C:\proyecto\VIMOD.Web\VIMOD.Repositories\bin\Debug\net9.0\VIMOD.Repositories.pdb
+C:\proyecto\VIMOD.Web\VIMOD.Repositories\bin\Debug\net9.0\VIMOD.Domain.dll
+C:\proyecto\VIMOD.Web\VIMOD.Repositories\bin\Debug\net9.0\VIMOD.Infraestructure.dll
+C:\proyecto\VIMOD.Web\VIMOD.Repositories\bin\Debug\net9.0\VIMOD.Domain.pdb
+C:\proyecto\VIMOD.Web\VIMOD.Repositories\bin\Debug\net9.0\VIMOD.Infraestructure.pdb
+C:\proyecto\VIMOD.Web\VIMOD.Repositories\obj\Debug\net9.0\VIMOD.Repositories.csproj.AssemblyReference.cache
+C:\proyecto\VIMOD.Web\VIMOD.Repositories\obj\Debug\net9.0\VIMOD.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyecto\VIMOD.Web\VIMOD.Repositories\obj\Debug\net9.0\VIMOD.Repositories.AssemblyInfoInputs.cache
+C:\proyecto\VIMOD.Web\VIMOD.Repositories\obj\Debug\net9.0\VIMOD.Repositories.AssemblyInfo.cs
+C:\proyecto\VIMOD.Web\VIMOD.Repositories\obj\Debug\net9.0\VIMOD.Repositories.csproj.CoreCompileInputs.cache
+C:\proyecto\VIMOD.Web\VIMOD.Repositories\obj\Debug\net9.0\VIMOD.Re.07FA3D5B.Up2Date
+C:\proyecto\VIMOD.Web\VIMOD.Repositories\obj\Debug\net9.0\VIMOD.Repositories.dll
+C:\proyecto\VIMOD.Web\VIMOD.Repositories\obj\Debug\net9.0\refint\VIMOD.Repositories.dll
+C:\proyecto\VIMOD.Web\VIMOD.Repositories\obj\Debug\net9.0\VIMOD.Repositories.pdb
+C:\proyecto\VIMOD.Web\VIMOD.Repositories\obj\Debug\net9.0\VIMOD.Repositories.genruntimeconfig.cache
+C:\proyecto\VIMOD.Web\VIMOD.Repositories\obj\Debug\net9.0\ref\VIMOD.Repositories.dll

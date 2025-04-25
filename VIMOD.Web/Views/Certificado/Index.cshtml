@@ -1,0 +1,38 @@
+﻿@model IEnumerable<VIMOD.Domain.Models.Certificado>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Certificados</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Crear Nuevo</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.FechaEmision)</th>
+            <th>@Html.DisplayNameFor(model => model.RutaArchivo)</th>
+            <th>@Html.DisplayNameFor(model => model.IdCurso)</th>
+            <th>@Html.DisplayNameFor(model => model.IdUsuario)</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.FechaEmision)</td>
+                <td>@Html.DisplayFor(modelItem => item.RutaArchivo)</td>
+                <td>@Html.DisplayFor(modelItem => item.IdCurso)</td>
+                <td>@Html.DisplayFor(modelItem => item.IdUsuario)</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.IdCertificado">Editar</a> |
+                    <a asp-action="Details" asp-route-id="@item.IdCertificado">Detalles</a> |
+                    <a asp-action="Delete" asp-route-id="@item.IdCertificado">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,24 @@
+﻿@model VIMOD.Domain.Models.Carousel
+
+@{
+    ViewData["Title"] = "Detalles del Carrusel";
+}
+
+<div class="container mt-5">
+    <div class="card shadow border-0 rounded-4">
+        <div class="card-header bg-info text-white rounded-top-4">
+            <h3 class="mb-0">Detalles del Carrusel</h3>
+        </div>
+        <div class="card-body">
+            <dl class="row">
+                <dt class="col-sm-3 fw-semibold">Título</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Titulo)</dd>
+
+                <dt class="col-sm-3 fw-semibold">Descripción</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.Descripcion)</dd>
+
+                <dt class="col-sm-3 fw-semibold">URL de Imagen</dt>
+                <dd class="col-sm-9">@Html.DisplayFor(model => model.ImagenUrl)</dd>
+            </dl>
+        </div>
+        <div class="card-footer text-end bg-light rounded-bottom-4

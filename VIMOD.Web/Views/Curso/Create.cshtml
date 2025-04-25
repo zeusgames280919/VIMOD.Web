@@ -1,0 +1,73 @@
+﻿@model VIMOD.Domain.Models.Curso
+
+@{
+    ViewData["Title"] = "Crear Curso";
+}
+
+<h2 class="mb-4 text-primary">Agregar Curso</h2>
+<hr />
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <div class="card shadow-lg rounded-4">
+            <div class="card-body">
+                <form asp-action="Create">
+                    <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+                    <div class="mb-3">
+                        <label asp-for="Nombre" class="form-label fw-semibold"></label>
+                        <input asp-for="Nombre" class="form-control" placeholder="Ingrese el nombre del curso" />
+                        <span asp-validation-for="Nombre" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="Descripcion" class="form-label fw-semibold"></label>
+                        <input asp-for="Descripcion" class="form-control" placeholder="Breve descripción del curso" />
+                        <span asp-validation-for="Descripcion" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="Precio" class="form-label fw-semibold"></label>
+                        <input asp-for="Precio" class="form-control" placeholder="Precio en soles" />
+                        <span asp-validation-for="Precio" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="PrecioDescuento" class="form-label fw-semibold"></label>
+                        <input asp-for="PrecioDescuento" class="form-control" placeholder="Precio con descuento (opcional)" />
+                        <span asp-validation-for="PrecioDescuento" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="URLImagen" class="form-label fw-semibold"></label>
+                        <input asp-for="URLImagen" class="form-control" placeholder="URL de la imagen del curso" />
+                        <span asp-validation-for="URLImagen" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="DocenteAsignado" class="form-label fw-semibold"></label>
+                        <input asp-for="DocenteAsignado" class="form-control" placeholder="Nombre del docente" />
+                        <span asp-validation-for="DocenteAsignado" class="text-danger"></span>
+                    </div>
+
+                    <div class="mb-3">
+                        <label asp-for="IdCategoria" class="form-label fw-semibold"></label>
+                        <select asp-for="IdCategoria" class="form-select" asp-items="ViewBag.IdCategoria">
+                            <option value="">Seleccione una categoría</option>
+                        </select>
+                    </div>
+
+                    <div class="d-grid gap-2">
+                        <input type="submit" value="Crear Curso" class="btn btn-primary btn-lg rounded-pill" />
+                        <a asp-action="Index" class="btn btn-secondary rounded-pill">Volver a la lista</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

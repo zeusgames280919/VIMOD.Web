@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<header>
+    <link rel="stylesheet" href="~/css/site.css" />
+</header>
+<div class="container-fluid px-0">
+    <div class="position-relative">
+        <img src="/img/home.jpg" alt="Logo" class="w-100 img-fluid" style="object-fit: cover; height: 100vh; filter: blur(5px);">
+        <div class="position-absolute top-50 start-50 translate-middle text-center text-white">
+            <div class="bg-dark bg-opacity-50 p-5 rounded-4 shadow-lg">
+                <h1 class="display-3 fw-bold mb-3">Bienvenido a VIMOD</h1>
+                <p class="lead mb-4">Tu portal para aprender y explorar el mundo de la tecnología</p>
+                <a href="@Url.Action("About", "Home")" class="btn btn-light btn-lg rounded-pill px-4 py-2">Explora más</a>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,157 @@
+﻿@page
+@model RegisterModel
+@{
+    ViewData["Title"] = "Registro";
+}
+<body>
+    <div class="custom-form-container">
+        <form id="registerForm" asp-route-returnUrl="@Model.ReturnUrl" method="post">
+            <!-- Logo -->
+            <img src="/img/logo.jpg" alt="Logo" class="logo-image">
+            <h1 class="h1-spam">Crea tu cuenta para acceder a todas las funciones</h1>
+            <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+
+            <!-- Campo Nombre -->
+            <input asp-for="Input.Nombre" class="custom-input" aria-required="true" placeholder="Nombre" />
+            <span asp-validation-for="Input.Nombre" class="text-danger"></span>
+
+            <!-- Campo Apellido -->
+            <input asp-for="Input.Apellido" class="custom-input" aria-required="true" placeholder="Apellido" />
+            <span asp-validation-for="Input.Apellido" class="text-danger"></span>
+
+            <!-- Campo Fecha de Nacimiento -->
+            <input asp-for="Input.FechaDeNacimiento" class="custom-input" type="date" aria-required="true" />
+            <span asp-validation-for="Input.FechaDeNacimiento" class="text-danger"></span>
+
+            <!-- Campo Email -->
+            <input asp-for="Input.Email" class="custom-input" autocomplete="username" aria-required="true" placeholder="Correo electrónico" />
+            <span asp-validation-for="Input.Email" class="text-danger"></span>
+
+            <!-- Campo Contraseña -->
+            <input asp-for="Input.Password" class="custom-input" autocomplete="new-password" aria-required="true" placeholder="Contraseña" />
+            <span asp-validation-for="Input.Password" class="text-danger"></span>
+
+            <!-- Confirmar Contraseña -->
+            <input asp-for="Input.ConfirmPassword" class="custom-input" autocomplete="new-password" aria-required="true" placeholder="Confirmar contraseña" />
+            <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+
+            <button id="registerSubmit" type="submit" class="w-100 btn btn-lg btn-success">
+                <i class="bi bi-floppy-fill"></i>&nbsp; &nbsp; Registrar
+            </button>
+            <!-- Enlaces de redes sociales y pie de página -->
+            <div class="custom-toggle-container">
+                <div class="custom-social-icons">
+                    <a href="https://es-la.facebook.com/VMODARQ/" class="custom-icon" title="Facebook"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://www.instagram.com/vimod_arq/" class="custom-icon" title="Instagram"><i class="fab fa-instagram"></i></a>
+                    <a href="https://www.linkedin.com/in/vimod-arquitectura-y-dise%C3%B1o-6067b3202/" class="custom-icon" title="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+                </div>
+                <span class="spam-vimod">
+                    © VIMOD - 2024 | Todos los derechos reservados
+                </span>
+            </div>
+        </form>
+    </div>
+</body>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+
+<style>
+    /* Fondo del contenedor principal */
+    .custom-form-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        background-image: url('/lib/bootstrap/dist/architecture.jpg');
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        padding: 2rem;
+        transform: translateX(-1%);
+    }
+
+    /* Formulario */
+    .custom-form {
+        width: 100%;
+        max-width: 450px;
+        background-color: rgba(255, 255, 255, 0.9);
+        padding: 2rem;
+        border-radius: 20px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        text-align: center;
+    }
+
+    /* Imagen del logo */
+    .logo-image {
+        max-width: 100px;
+        margin-bottom: 1rem;
+    }
+
+    /* Título */
+    .h1-spam {
+        font-size: 1rem;
+        margin-bottom: 1.5rem;
+        color: #000;
+        font-weight: 500;
+        opacity: 0.8;
+    }
+
+    /* Campos de entrada */
+    .custom-input {
+        width: 100%;
+        padding: 0.75rem;
+        margin-bottom: 1rem;
+        font-size: 1rem;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        box-sizing: border-box;
+    }
+
+    /* Botones */
+    .custom-button {
+        width: 100%;
+        padding: 0.75rem;
+        font-size: 1rem;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+    /* Botón principal */
+    .custom-button-primary {
+        background-color: #3498db;
+        color: #fff;
+    }
+
+        .custom-button-primary:hover {
+            background-color: #2980b9;
+        }
+
+    /* Redes sociales */
+    .custom-social-icons {
+        margin-top: 2rem;
+        display: flex;
+        justify-content: center;
+        gap: 1rem;
+    }
+
+    .custom-icon {
+        color: #333;
+        font-size: 1.2rem;
+        transition: color 0.3s ease;
+    }
+
+        .custom-icon:hover {
+            color: #3498db;
+        }
+
+    .spam-vimod {
+        margin-top: 2rem;
+        font-size: 0.9rem;
+        text-align: center;
+    }
+</style>

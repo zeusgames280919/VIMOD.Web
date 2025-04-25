@@ -1,0 +1,1801 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\proyecto\\VIMOD.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{476CD561-2CAA-4E56-AE7E-05D82DAF7932}|Pruebas\\Pruebas.csproj|c:\\proyecto\\vimod.web\\pruebas\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476CD561-2CAA-4E56-AE7E-05D82DAF7932}|Pruebas\\Pruebas.csproj|solutionrelative:pruebas\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB41C9B-4146-405C-A640-B1485AC1C695}|PruebasUnitarias\\PruebasUnitarias.csproj|C:\\proyecto\\VIMOD.Web\\pruebasunitarias\\usuariotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB41C9B-4146-405C-A640-B1485AC1C695}|PruebasUnitarias\\PruebasUnitarias.csproj|solutionrelative:pruebasunitarias\\usuariotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311AC4BB-B01B-4DCD-8ACD-80B8AFB403B6}|VIMOD.Domain\\VIMOD.Domain.csproj|c:\\proyecto\\vimod.web\\vimod.domain\\vimod.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{311AC4BB-B01B-4DCD-8ACD-80B8AFB403B6}|VIMOD.Domain\\VIMOD.Domain.csproj|solutionrelative:vimod.domain\\vimod.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB41C9B-4146-405C-A640-B1485AC1C695}|PruebasUnitarias\\PruebasUnitarias.csproj|C:\\proyecto\\VIMOD.Web\\pruebasunitarias\\pedidotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB41C9B-4146-405C-A640-B1485AC1C695}|PruebasUnitarias\\PruebasUnitarias.csproj|solutionrelative:pruebasunitarias\\pedidotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{476CD561-2CAA-4E56-AE7E-05D82DAF7932}|Pruebas\\Pruebas.csproj|c:\\proyecto\\vimod.web\\pruebas\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{476CD561-2CAA-4E56-AE7E-05D82DAF7932}|Pruebas\\Pruebas.csproj|solutionrelative:pruebas\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\vimod.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\vimod.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\controllers\\pedidodetallecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\controllers\\pedidodetallecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\views\\contenidoeducativo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\views\\contenidoeducativo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\views\\contenidoeducativo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\views\\contenidoeducativo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\views\\contenidoeducativo\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\views\\contenidoeducativo\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\views\\contenidoeducativo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\views\\contenidoeducativo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\views\\contenidoeducativo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\views\\contenidoeducativo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\views\\certificado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\views\\certificado\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\views\\certificado\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\views\\certificado\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\views\\certificado\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\views\\certificado\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\views\\certificado\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\views\\certificado\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\views\\certificado\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\views\\certificado\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\views\\categoria\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\views\\categoria\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\views\\categoria\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\views\\categoria\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\views\\categoria\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\views\\categoria\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\views\\categoria\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\views\\categoria\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\views\\carrocompras\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\views\\carrocompras\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\views\\carousel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\views\\carousel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\views\\carousel\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\views\\carousel\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\views\\carousel\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\views\\carousel\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\views\\carousel\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\views\\carousel\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\views\\carousel\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\views\\carousel\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\views\\curso\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\views\\curso\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB41C9B-4146-405C-A640-B1485AC1C695}|PruebasUnitarias\\PruebasUnitarias.csproj|C:\\proyecto\\VIMOD.Web\\pruebasunitarias\\cursotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB41C9B-4146-405C-A640-B1485AC1C695}|PruebasUnitarias\\PruebasUnitarias.csproj|solutionrelative:pruebasunitarias\\cursotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311AC4BB-B01B-4DCD-8ACD-80B8AFB403B6}|VIMOD.Domain\\VIMOD.Domain.csproj|c:\\proyecto\\vimod.web\\vimod.domain\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311AC4BB-B01B-4DCD-8ACD-80B8AFB403B6}|VIMOD.Domain\\VIMOD.Domain.csproj|solutionrelative:vimod.domain\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86CDEEDC-6FA9-48A7-B0D5-88D25CFAE675}|VIMOD.Infraestructure\\VIMOD.Infraestructure.csproj|c:\\proyecto\\vimod.web\\vimod.infraestructure\\vimod.infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{86CDEEDC-6FA9-48A7-B0D5-88D25CFAE675}|VIMOD.Infraestructure\\VIMOD.Infraestructure.csproj|solutionrelative:vimod.infraestructure\\vimod.infraestructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\controllers\\cursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\controllers\\cursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86CDEEDC-6FA9-48A7-B0D5-88D25CFAE675}|VIMOD.Infraestructure\\VIMOD.Infraestructure.csproj|c:\\proyecto\\vimod.web\\vimod.infraestructure\\seeddata\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86CDEEDC-6FA9-48A7-B0D5-88D25CFAE675}|VIMOD.Infraestructure\\VIMOD.Infraestructure.csproj|solutionrelative:vimod.infraestructure\\seeddata\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311AC4BB-B01B-4DCD-8ACD-80B8AFB403B6}|VIMOD.Domain\\VIMOD.Domain.csproj|c:\\proyecto\\vimod.web\\vimod.domain\\models\\carousel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311AC4BB-B01B-4DCD-8ACD-80B8AFB403B6}|VIMOD.Domain\\VIMOD.Domain.csproj|solutionrelative:vimod.domain\\models\\carousel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311AC4BB-B01B-4DCD-8ACD-80B8AFB403B6}|VIMOD.Domain\\VIMOD.Domain.csproj|c:\\proyecto\\vimod.web\\vimod.domain\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311AC4BB-B01B-4DCD-8ACD-80B8AFB403B6}|VIMOD.Domain\\VIMOD.Domain.csproj|solutionrelative:vimod.domain\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\controllers\\contenidoeducativocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\controllers\\contenidoeducativocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\controllers\\certificadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\controllers\\certificadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311AC4BB-B01B-4DCD-8ACD-80B8AFB403B6}|VIMOD.Domain\\VIMOD.Domain.csproj|c:\\proyecto\\vimod.web\\vimod.domain\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311AC4BB-B01B-4DCD-8ACD-80B8AFB403B6}|VIMOD.Domain\\VIMOD.Domain.csproj|solutionrelative:vimod.domain\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311AC4BB-B01B-4DCD-8ACD-80B8AFB403B6}|VIMOD.Domain\\VIMOD.Domain.csproj|c:\\proyecto\\vimod.web\\vimod.domain\\models\\contenidoeducativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311AC4BB-B01B-4DCD-8ACD-80B8AFB403B6}|VIMOD.Domain\\VIMOD.Domain.csproj|solutionrelative:vimod.domain\\models\\contenidoeducativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311AC4BB-B01B-4DCD-8ACD-80B8AFB403B6}|VIMOD.Domain\\VIMOD.Domain.csproj|c:\\proyecto\\vimod.web\\vimod.domain\\models\\certificado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311AC4BB-B01B-4DCD-8ACD-80B8AFB403B6}|VIMOD.Domain\\VIMOD.Domain.csproj|solutionrelative:vimod.domain\\models\\certificado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\controllers\\carrocomprascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\controllers\\carrocomprascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\controllers\\carouselcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\controllers\\carouselcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86CDEEDC-6FA9-48A7-B0D5-88D25CFAE675}|VIMOD.Infraestructure\\VIMOD.Infraestructure.csproj|c:\\proyecto\\vimod.web\\vimod.infraestructure\\migrations\\20250425043549_initalcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86CDEEDC-6FA9-48A7-B0D5-88D25CFAE675}|VIMOD.Infraestructure\\VIMOD.Infraestructure.csproj|solutionrelative:vimod.infraestructure\\migrations\\20250425043549_initalcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311AC4BB-B01B-4DCD-8ACD-80B8AFB403B6}|VIMOD.Domain\\VIMOD.Domain.csproj|c:\\proyecto\\vimod.web\\vimod.domain\\models\\carrocompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311AC4BB-B01B-4DCD-8ACD-80B8AFB403B6}|VIMOD.Domain\\VIMOD.Domain.csproj|solutionrelative:vimod.domain\\models\\carrocompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311AC4BB-B01B-4DCD-8ACD-80B8AFB403B6}|VIMOD.Domain\\VIMOD.Domain.csproj|c:\\proyecto\\vimod.web\\vimod.domain\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311AC4BB-B01B-4DCD-8ACD-80B8AFB403B6}|VIMOD.Domain\\VIMOD.Domain.csproj|solutionrelative:vimod.domain\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{311AC4BB-B01B-4DCD-8ACD-80B8AFB403B6}|VIMOD.Domain\\VIMOD.Domain.csproj|c:\\proyecto\\vimod.web\\vimod.domain\\models\\pedidodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{311AC4BB-B01B-4DCD-8ACD-80B8AFB403B6}|VIMOD.Domain\\VIMOD.Domain.csproj|solutionrelative:vimod.domain\\models\\pedidodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B07AE41-183A-4E97-A7B0-CEFCB9CB3506}|VIMOD.Repositories\\VIMOD.Repositories.csproj|c:\\proyecto\\vimod.web\\vimod.repositories\\implementations\\repositoriobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B07AE41-183A-4E97-A7B0-CEFCB9CB3506}|VIMOD.Repositories\\VIMOD.Repositories.csproj|solutionrelative:vimod.repositories\\implementations\\repositoriobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B07AE41-183A-4E97-A7B0-CEFCB9CB3506}|VIMOD.Repositories\\VIMOD.Repositories.csproj|c:\\proyecto\\vimod.web\\vimod.repositories\\implementations\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B07AE41-183A-4E97-A7B0-CEFCB9CB3506}|VIMOD.Repositories\\VIMOD.Repositories.csproj|solutionrelative:vimod.repositories\\implementations\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B07AE41-183A-4E97-A7B0-CEFCB9CB3506}|VIMOD.Repositories\\VIMOD.Repositories.csproj|c:\\proyecto\\vimod.web\\vimod.repositories\\implementations\\unitworkrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B07AE41-183A-4E97-A7B0-CEFCB9CB3506}|VIMOD.Repositories\\VIMOD.Repositories.csproj|solutionrelative:vimod.repositories\\implementations\\unitworkrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B07AE41-183A-4E97-A7B0-CEFCB9CB3506}|VIMOD.Repositories\\VIMOD.Repositories.csproj|c:\\proyecto\\vimod.web\\vimod.repositories\\interfaces\\irepositoriobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B07AE41-183A-4E97-A7B0-CEFCB9CB3506}|VIMOD.Repositories\\VIMOD.Repositories.csproj|solutionrelative:vimod.repositories\\interfaces\\irepositoriobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86CDEEDC-6FA9-48A7-B0D5-88D25CFAE675}|VIMOD.Infraestructure\\VIMOD.Infraestructure.csproj|c:\\proyecto\\vimod.web\\vimod.infraestructure\\context\\vimoddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86CDEEDC-6FA9-48A7-B0D5-88D25CFAE675}|VIMOD.Infraestructure\\VIMOD.Infraestructure.csproj|solutionrelative:vimod.infraestructure\\context\\vimoddbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\areas\\identity\\pages\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\areas\\identity\\pages\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\areas\\identity\\pages\\account\\_statusmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\areas\\identity\\pages\\account\\_statusmessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\areas\\identity\\pages\\account\\accessdenied.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\areas\\identity\\pages\\account\\accessdenied.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\areas\\identity\\pages\\account\\confirmemail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\areas\\identity\\pages\\account\\confirmemail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\areas\\identity\\pages\\account\\confirmemailchange.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\areas\\identity\\pages\\account\\confirmemailchange.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\areas\\identity\\pages\\account\\externallogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\areas\\identity\\pages\\account\\externallogin.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\areas\\identity\\pages\\account\\lockout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\areas\\identity\\pages\\account\\lockout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\areas\\identity\\pages\\account\\loginwith2fa.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\areas\\identity\\pages\\account\\loginwith2fa.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\areas\\identity\\pages\\account\\loginwithrecoverycode.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\areas\\identity\\pages\\account\\loginwithrecoverycode.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\areas\\identity\\pages\\account\\resendemailconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\areas\\identity\\pages\\account\\resendemailconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\areas\\identity\\pages\\account\\resendemailconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\areas\\identity\\pages\\account\\resendemailconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\areas\\identity\\pages\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\areas\\identity\\pages\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\areas\\identity\\pages\\account\\resetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\areas\\identity\\pages\\account\\resetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\areas\\identity\\pages\\account\\resetpasswordconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\areas\\identity\\pages\\account\\resetpasswordconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\areas\\identity\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\areas\\identity\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\areas\\identity\\pages\\account\\resetpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\areas\\identity\\pages\\account\\resetpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\areas\\identity\\pages\\account\\loginwithrecoverycode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\areas\\identity\\pages\\account\\loginwithrecoverycode.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\areas\\identity\\pages\\account\\loginwith2fa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\areas\\identity\\pages\\account\\loginwith2fa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\areas\\identity\\pages\\account\\externallogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\areas\\identity\\pages\\account\\externallogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\areas\\identity\\pages\\account\\confirmemailchange.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\areas\\identity\\pages\\account\\confirmemailchange.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|c:\\proyecto\\vimod.web\\vimod.web\\areas\\identity\\pages\\account\\lockout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B16A2A86-55E8-4142-955E-9C38354CDB72}|VIMOD.Web\\VIMOD.Web.csproj|solutionrelative:vimod.web\\areas\\identity\\pages\\account\\lockout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269754C1-34E9-419D-BAA2-AFD314935D9A}|VIMOD.Utilities\\VIMOD.Utilities.csproj|c:\\proyecto\\vimod.web\\vimod.utilities\\vcg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269754C1-34E9-419D-BAA2-AFD314935D9A}|VIMOD.Utilities\\VIMOD.Utilities.csproj|solutionrelative:vimod.utilities\\vcg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B07AE41-183A-4E97-A7B0-CEFCB9CB3506}|VIMOD.Repositories\\VIMOD.Repositories.csproj|c:\\proyecto\\vimod.web\\vimod.repositories\\interfaces\\iunitworkrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B07AE41-183A-4E97-A7B0-CEFCB9CB3506}|VIMOD.Repositories\\VIMOD.Repositories.csproj|solutionrelative:vimod.repositories\\interfaces\\iunitworkrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B07AE41-183A-4E97-A7B0-CEFCB9CB3506}|VIMOD.Repositories\\VIMOD.Repositories.csproj|c:\\proyecto\\vimod.web\\vimod.repositories\\implementations\\categoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B07AE41-183A-4E97-A7B0-CEFCB9CB3506}|VIMOD.Repositories\\VIMOD.Repositories.csproj|solutionrelative:vimod.repositories\\implementations\\categoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B07AE41-183A-4E97-A7B0-CEFCB9CB3506}|VIMOD.Repositories\\VIMOD.Repositories.csproj|c:\\proyecto\\vimod.web\\vimod.repositories\\interfaces\\icategoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B07AE41-183A-4E97-A7B0-CEFCB9CB3506}|VIMOD.Repositories\\VIMOD.Repositories.csproj|solutionrelative:vimod.repositories\\interfaces\\icategoriarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B07AE41-183A-4E97-A7B0-CEFCB9CB3506}|VIMOD.Repositories\\VIMOD.Repositories.csproj|c:\\proyecto\\vimod.web\\vimod.repositories\\interfaces\\icertificadorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B07AE41-183A-4E97-A7B0-CEFCB9CB3506}|VIMOD.Repositories\\VIMOD.Repositories.csproj|solutionrelative:vimod.repositories\\interfaces\\icertificadorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B07AE41-183A-4E97-A7B0-CEFCB9CB3506}|VIMOD.Repositories\\VIMOD.Repositories.csproj|c:\\proyecto\\vimod.web\\vimod.repositories\\interfaces\\icursoestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B07AE41-183A-4E97-A7B0-CEFCB9CB3506}|VIMOD.Repositories\\VIMOD.Repositories.csproj|solutionrelative:vimod.repositories\\interfaces\\icursoestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B07AE41-183A-4E97-A7B0-CEFCB9CB3506}|VIMOD.Repositories\\VIMOD.Repositories.csproj|c:\\proyecto\\vimod.web\\vimod.repositories\\interfaces\\icursorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B07AE41-183A-4E97-A7B0-CEFCB9CB3506}|VIMOD.Repositories\\VIMOD.Repositories.csproj|solutionrelative:vimod.repositories\\interfaces\\icursorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B07AE41-183A-4E97-A7B0-CEFCB9CB3506}|VIMOD.Repositories\\VIMOD.Repositories.csproj|c:\\proyecto\\vimod.web\\vimod.repositories\\interfaces\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B07AE41-183A-4E97-A7B0-CEFCB9CB3506}|VIMOD.Repositories\\VIMOD.Repositories.csproj|solutionrelative:vimod.repositories\\interfaces\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T18:07:33.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VIMOD.Web.csproj",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\VIMOD.Web.csproj",
+              "RelativeDocumentMoniker": "VIMOD.Web\\VIMOD.Web.csproj",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\VIMOD.Web.csproj",
+              "RelativeToolTip": "VIMOD.Web\\VIMOD.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-25T07:00:14.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T18:24:18.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PedidoTests.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\PruebasUnitarias\\PedidoTests.cs",
+              "RelativeDocumentMoniker": "PruebasUnitarias\\PedidoTests.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\PruebasUnitarias\\PedidoTests.cs",
+              "RelativeToolTip": "PruebasUnitarias\\PedidoTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T06:54:42.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VIMOD.Domain.csproj",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Domain\\VIMOD.Domain.csproj",
+              "RelativeDocumentMoniker": "VIMOD.Domain\\VIMOD.Domain.csproj",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Domain\\VIMOD.Domain.csproj",
+              "RelativeToolTip": "VIMOD.Domain\\VIMOD.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-25T07:00:59.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\Pruebas\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "Pruebas\\MSTestSettings.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\Pruebas\\MSTestSettings.cs",
+              "RelativeToolTip": "Pruebas\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T20:39:11.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\Pruebas\\Test1.cs",
+              "RelativeDocumentMoniker": "Pruebas\\Test1.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\Pruebas\\Test1.cs",
+              "RelativeToolTip": "Pruebas\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T20:39:58.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioTests.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\PruebasUnitarias\\UsuarioTests.cs",
+              "RelativeDocumentMoniker": "PruebasUnitarias\\UsuarioTests.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\PruebasUnitarias\\UsuarioTests.cs",
+              "RelativeToolTip": "PruebasUnitarias\\UsuarioTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T04:51:18.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T18:10:55.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T18:10:54.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T18:24:17.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T18:07:30.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T18:07:30.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T18:10:53.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "VIMOD.Web\\appsettings.json",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\appsettings.json",
+              "RelativeToolTip": "VIMOD.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-24T20:20:22.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\ContenidoEducativo\\Delete.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Views\\ContenidoEducativo\\Delete.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\ContenidoEducativo\\Delete.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Views\\ContenidoEducativo\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T07:38:24.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\ContenidoEducativo\\Create.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Views\\ContenidoEducativo\\Create.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\ContenidoEducativo\\Create.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Views\\ContenidoEducativo\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvz0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T07:37:57.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PedidoDetalleController.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Controllers\\PedidoDetalleController.cs",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Controllers\\PedidoDetalleController.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Controllers\\PedidoDetalleController.cs",
+              "RelativeToolTip": "VIMOD.Web\\Controllers\\PedidoDetalleController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T04:43:52.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\Certificado\\Edit.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Views\\Certificado\\Edit.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\Certificado\\Edit.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Views\\Certificado\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T07:32:25.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\Certificado\\Index.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Views\\Certificado\\Index.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\Certificado\\Index.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Views\\Certificado\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T07:32:34.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\ContenidoEducativo\\Edit.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Views\\ContenidoEducativo\\Edit.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\ContenidoEducativo\\Edit.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Views\\ContenidoEducativo\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T07:38:53.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\ContenidoEducativo\\Details.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Views\\ContenidoEducativo\\Details.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\ContenidoEducativo\\Details.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Views\\ContenidoEducativo\\Details.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T07:38:36.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\ContenidoEducativo\\Index.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Views\\ContenidoEducativo\\Index.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\ContenidoEducativo\\Index.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Views\\ContenidoEducativo\\Index.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T07:39:06.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\Certificado\\Details.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Views\\Certificado\\Details.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\Certificado\\Details.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Views\\Certificado\\Details.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T07:32:13.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\Certificado\\Delete.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Views\\Certificado\\Delete.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\Certificado\\Delete.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Views\\Certificado\\Delete.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T07:32:09.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\Certificado\\Create.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Views\\Certificado\\Create.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\Certificado\\Create.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Views\\Certificado\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvy4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T07:31:46.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\Categoria\\Index.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Views\\Categoria\\Index.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\Categoria\\Index.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Views\\Categoria\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T07:28:35.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\Categoria\\Edit.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Views\\Categoria\\Edit.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\Categoria\\Edit.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Views\\Categoria\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvy4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T07:28:23.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\Categoria\\Details.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Views\\Categoria\\Details.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\Categoria\\Details.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Views\\Categoria\\Details.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T07:28:13.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\Categoria\\Delete.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Views\\Categoria\\Delete.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\Categoria\\Delete.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Views\\Categoria\\Delete.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvx0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T07:28:03.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\Categoria\\Create.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Views\\Categoria\\Create.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\Categoria\\Create.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Views\\Categoria\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T07:27:51.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\CarroCompras\\Create.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Views\\CarroCompras\\Create.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\CarroCompras\\Create.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Views\\CarroCompras\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T07:27:35.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\Carousel\\Index.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Views\\Carousel\\Index.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\Carousel\\Index.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Views\\Carousel\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T07:25:26.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\Carousel\\Edit.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Views\\Carousel\\Edit.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\Carousel\\Edit.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Views\\Carousel\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T07:25:16.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\Carousel\\Details.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Views\\Carousel\\Details.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\Carousel\\Details.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Views\\Carousel\\Details.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T07:25:04.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\Carousel\\Delete.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Views\\Carousel\\Delete.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\Carousel\\Delete.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Views\\Carousel\\Delete.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvyEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T07:24:51.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\Carousel\\Create.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Views\\Carousel\\Create.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\Carousel\\Create.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Views\\Carousel\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T07:23:32.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\Curso\\Create.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Views\\Curso\\Create.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\Curso\\Create.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Views\\Curso\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T07:20:46.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "VIMOD.Infraestructure.csproj",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Infraestructure\\VIMOD.Infraestructure.csproj",
+              "RelativeDocumentMoniker": "VIMOD.Infraestructure\\VIMOD.Infraestructure.csproj",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Infraestructure\\VIMOD.Infraestructure.csproj",
+              "RelativeToolTip": "VIMOD.Infraestructure\\VIMOD.Infraestructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-25T07:00:39.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CursoTests.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\PruebasUnitarias\\CursoTests.cs",
+              "RelativeDocumentMoniker": "PruebasUnitarias\\CursoTests.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\PruebasUnitarias\\CursoTests.cs",
+              "RelativeToolTip": "PruebasUnitarias\\CursoTests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T06:52:22.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAswBYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:17:50.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Infraestructure\\SeedData\\SeedData.cs",
+              "RelativeDocumentMoniker": "VIMOD.Infraestructure\\SeedData\\SeedData.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Infraestructure\\SeedData\\SeedData.cs",
+              "RelativeToolTip": "VIMOD.Infraestructure\\SeedData\\SeedData.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwB8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:57:01.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Carousel.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Domain\\Models\\Carousel.cs",
+              "RelativeDocumentMoniker": "VIMOD.Domain\\Models\\Carousel.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Domain\\Models\\Carousel.cs",
+              "RelativeToolTip": "VIMOD.Domain\\Models\\Carousel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T22:22:50.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Program.cs",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Program.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Program.cs",
+              "RelativeToolTip": "VIMOD.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:50:30.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Domain\\Models\\Curso.cs",
+              "RelativeDocumentMoniker": "VIMOD.Domain\\Models\\Curso.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Domain\\Models\\Curso.cs",
+              "RelativeToolTip": "VIMOD.Domain\\Models\\Curso.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwBwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T21:40:21.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAABMAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T18:03:41.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "VIMOD.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:02:02.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CursoController.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Controllers\\CursoController.cs",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Controllers\\CursoController.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Controllers\\CursoController.cs",
+              "RelativeToolTip": "VIMOD.Web\\Controllers\\CursoController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T04:42:42.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Domain\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "VIMOD.Domain\\Models\\Usuario.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Domain\\Models\\Usuario.cs",
+              "RelativeToolTip": "VIMOD.Domain\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:44:39.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "VIMOD.Web\\Controllers\\CategoriaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T04:39:36.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Controllers\\PedidoController.cs",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Controllers\\PedidoController.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Controllers\\PedidoController.cs",
+              "RelativeToolTip": "VIMOD.Web\\Controllers\\PedidoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T04:43:19.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ContenidoEducativoController.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Controllers\\ContenidoEducativoController.cs",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Controllers\\ContenidoEducativoController.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Controllers\\ContenidoEducativoController.cs",
+              "RelativeToolTip": "VIMOD.Web\\Controllers\\ContenidoEducativoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T04:41:59.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CertificadoController.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Controllers\\CertificadoController.cs",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Controllers\\CertificadoController.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Controllers\\CertificadoController.cs",
+              "RelativeToolTip": "VIMOD.Web\\Controllers\\CertificadoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T04:41:13.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "CarroComprasController.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Controllers\\CarroComprasController.cs",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Controllers\\CarroComprasController.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Controllers\\CarroComprasController.cs",
+              "RelativeToolTip": "VIMOD.Web\\Controllers\\CarroComprasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T04:38:27.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "CarouselController.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Controllers\\CarouselController.cs",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Controllers\\CarouselController.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Controllers\\CarouselController.cs",
+              "RelativeToolTip": "VIMOD.Web\\Controllers\\CarouselController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T04:37:30.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20250425043549_InitalCreate.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Infraestructure\\Migrations\\20250425043549_InitalCreate.cs",
+              "RelativeDocumentMoniker": "VIMOD.Infraestructure\\Migrations\\20250425043549_InitalCreate.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Infraestructure\\Migrations\\20250425043549_InitalCreate.cs",
+              "RelativeToolTip": "VIMOD.Infraestructure\\Migrations\\20250425043549_InitalCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T04:35:50.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Domain\\Models\\Pedido.cs",
+              "RelativeDocumentMoniker": "VIMOD.Domain\\Models\\Pedido.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Domain\\Models\\Pedido.cs",
+              "RelativeToolTip": "VIMOD.Domain\\Models\\Pedido.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T22:24:22.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ContenidoEducativo.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Domain\\Models\\ContenidoEducativo.cs",
+              "RelativeDocumentMoniker": "VIMOD.Domain\\Models\\ContenidoEducativo.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Domain\\Models\\ContenidoEducativo.cs",
+              "RelativeToolTip": "VIMOD.Domain\\Models\\ContenidoEducativo.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T21:40:20.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "PedidoDetalle.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Domain\\Models\\PedidoDetalle.cs",
+              "RelativeDocumentMoniker": "VIMOD.Domain\\Models\\PedidoDetalle.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Domain\\Models\\PedidoDetalle.cs",
+              "RelativeToolTip": "VIMOD.Domain\\Models\\PedidoDetalle.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T21:43:41.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Certificado.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Domain\\Models\\Certificado.cs",
+              "RelativeDocumentMoniker": "VIMOD.Domain\\Models\\Certificado.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Domain\\Models\\Certificado.cs",
+              "RelativeToolTip": "VIMOD.Domain\\Models\\Certificado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T21:40:16.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Domain\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "VIMOD.Domain\\Models\\Categoria.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Domain\\Models\\Categoria.cs",
+              "RelativeToolTip": "VIMOD.Domain\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T21:49:45.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CarroCompras.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Domain\\Models\\CarroCompras.cs",
+              "RelativeDocumentMoniker": "VIMOD.Domain\\Models\\CarroCompras.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Domain\\Models\\CarroCompras.cs",
+              "RelativeToolTip": "VIMOD.Domain\\Models\\CarroCompras.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T22:22:55.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T18:07:33.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "RepositorioBase.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Repositories\\Implementations\\RepositorioBase.cs",
+              "RelativeDocumentMoniker": "VIMOD.Repositories\\Implementations\\RepositorioBase.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Repositories\\Implementations\\RepositorioBase.cs",
+              "RelativeToolTip": "VIMOD.Repositories\\Implementations\\RepositorioBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:40:59.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "UsuarioRepositorio.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Repositories\\Implementations\\UsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "VIMOD.Repositories\\Implementations\\UsuarioRepositorio.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Repositories\\Implementations\\UsuarioRepositorio.cs",
+              "RelativeToolTip": "VIMOD.Repositories\\Implementations\\UsuarioRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:40:31.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "UnitWorkRepositorio.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Repositories\\Implementations\\UnitWorkRepositorio.cs",
+              "RelativeDocumentMoniker": "VIMOD.Repositories\\Implementations\\UnitWorkRepositorio.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Repositories\\Implementations\\UnitWorkRepositorio.cs",
+              "RelativeToolTip": "VIMOD.Repositories\\Implementations\\UnitWorkRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:40:32.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "IRepositorioBase.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Repositories\\Interfaces\\IRepositorioBase.cs",
+              "RelativeDocumentMoniker": "VIMOD.Repositories\\Interfaces\\IRepositorioBase.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Repositories\\Interfaces\\IRepositorioBase.cs",
+              "RelativeToolTip": "VIMOD.Repositories\\Interfaces\\IRepositorioBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:40:24.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "VIMODDbContext.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Infraestructure\\Context\\VIMODDbContext.cs",
+              "RelativeDocumentMoniker": "VIMOD.Infraestructure\\Context\\VIMODDbContext.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Infraestructure\\Context\\VIMODDbContext.cs",
+              "RelativeToolTip": "VIMOD.Infraestructure\\Context\\VIMODDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:06:55.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T18:24:12.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T18:08:21.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T18:10:30.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T18:10:32.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "_StatusMessage.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\_StatusMessage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T18:10:33.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "AccessDenied.cshtml.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml.cs",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml.cs",
+              "RelativeToolTip": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\AccessDenied.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:11:16.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ConfirmEmail.cshtml.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "RelativeToolTip": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:11:21.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "ConfirmEmailChange.cshtml.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml.cs",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml.cs",
+              "RelativeToolTip": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBwAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:15:32.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "ExternalLogin.cshtml.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "RelativeToolTip": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAArwCQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:16:15.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "ForgotPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeToolTip": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:17:14.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "ForgotPasswordConfirmation.cshtml.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
+              "RelativeToolTip": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:17:33.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Lockout.cshtml.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml.cs",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml.cs",
+              "RelativeToolTip": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:17:46.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "LoginWith2fa.cshtml.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml.cs",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml.cs",
+              "RelativeToolTip": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAmwBUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:18:10.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "LoginWithRecoveryCode.cshtml.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml.cs",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml.cs",
+              "RelativeToolTip": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBJwBUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:18:47.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:19:27.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAcwLsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:31:25.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "RegisterConfirmation.cshtml.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "RelativeToolTip": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowBIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:19:56.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "ResendEmailConfirmation.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T20:14:07.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T18:10:41.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "ResetPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "RelativeToolTip": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAADwvxcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:11:01.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "ResetPasswordConfirmation.cshtml.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml.cs",
+              "RelativeToolTip": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:20:30.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "ResendEmailConfirmation.cshtml.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml.cs",
+              "RelativeToolTip": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAswBQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:20:04.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAIBJwCMAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T18:04:28.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Areas\\Identity\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Error.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Areas\\Identity\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T18:10:56.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T18:19:21.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "ResetPasswordConfirmation.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T18:10:52.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "LoginWithRecoveryCode.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\LoginWithRecoveryCode.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T18:18:46.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "LoginWith2fa.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\LoginWith2fa.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T18:18:08.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "ForgotPasswordConfirmation.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T18:10:25.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T18:10:27.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "ExternalLogin.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ExternalLogin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T18:10:27.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "ConfirmEmailChange.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ConfirmEmailChange.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T18:10:28.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "RegisterConfirmation.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T18:10:42.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "ConfirmEmail.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T18:10:29.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "Lockout.cshtml",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
+              "RelativeDocumentMoniker": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Web\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
+              "RelativeToolTip": "VIMOD.Web\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T18:10:23.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "VCG.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Utilities\\VCG.cs",
+              "RelativeDocumentMoniker": "VIMOD.Utilities\\VCG.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Utilities\\VCG.cs",
+              "RelativeToolTip": "VIMOD.Utilities\\VCG.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:07:15.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "CategoriaRepositorio.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Repositories\\Implementations\\CategoriaRepositorio.cs",
+              "RelativeDocumentMoniker": "VIMOD.Repositories\\Implementations\\CategoriaRepositorio.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Repositories\\Implementations\\CategoriaRepositorio.cs",
+              "RelativeToolTip": "VIMOD.Repositories\\Implementations\\CategoriaRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:41:05.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "ICategoriaRepositorio.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Repositories\\Interfaces\\ICategoriaRepositorio.cs",
+              "RelativeDocumentMoniker": "VIMOD.Repositories\\Interfaces\\ICategoriaRepositorio.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Repositories\\Interfaces\\ICategoriaRepositorio.cs",
+              "RelativeToolTip": "VIMOD.Repositories\\Interfaces\\ICategoriaRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:40:30.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "ICertificadoRepositorio.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Repositories\\Interfaces\\ICertificadoRepositorio.cs",
+              "RelativeDocumentMoniker": "VIMOD.Repositories\\Interfaces\\ICertificadoRepositorio.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Repositories\\Interfaces\\ICertificadoRepositorio.cs",
+              "RelativeToolTip": "VIMOD.Repositories\\Interfaces\\ICertificadoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:40:29.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "ICursoEstudiante.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Repositories\\Interfaces\\ICursoEstudiante.cs",
+              "RelativeDocumentMoniker": "VIMOD.Repositories\\Interfaces\\ICursoEstudiante.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Repositories\\Interfaces\\ICursoEstudiante.cs",
+              "RelativeToolTip": "VIMOD.Repositories\\Interfaces\\ICursoEstudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:40:28.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "ICursoRepositorio.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Repositories\\Interfaces\\ICursoRepositorio.cs",
+              "RelativeDocumentMoniker": "VIMOD.Repositories\\Interfaces\\ICursoRepositorio.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Repositories\\Interfaces\\ICursoRepositorio.cs",
+              "RelativeToolTip": "VIMOD.Repositories\\Interfaces\\ICursoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:40:26.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "IUnitWorkRepositorio.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Repositories\\Interfaces\\IUnitWorkRepositorio.cs",
+              "RelativeDocumentMoniker": "VIMOD.Repositories\\Interfaces\\IUnitWorkRepositorio.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Repositories\\Interfaces\\IUnitWorkRepositorio.cs",
+              "RelativeToolTip": "VIMOD.Repositories\\Interfaces\\IUnitWorkRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:40:24.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "IUsuarioRepositorio.cs",
+              "DocumentMoniker": "C:\\proyecto\\VIMOD.Web\\VIMOD.Repositories\\Interfaces\\IUsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "VIMOD.Repositories\\Interfaces\\IUsuarioRepositorio.cs",
+              "ToolTip": "C:\\proyecto\\VIMOD.Web\\VIMOD.Repositories\\Interfaces\\IUsuarioRepositorio.cs",
+              "RelativeToolTip": "VIMOD.Repositories\\Interfaces\\IUsuarioRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:40:22.018Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

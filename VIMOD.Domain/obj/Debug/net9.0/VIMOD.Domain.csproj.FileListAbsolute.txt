@@ -1,0 +1,42 @@
+C:\Users\benja\Downloads\VIMOD.Web\VIMOD.Domain\bin\Debug\net9.0\VIMOD.Domain.deps.json
+C:\Users\benja\Downloads\VIMOD.Web\VIMOD.Domain\bin\Debug\net9.0\VIMOD.Domain.runtimeconfig.json
+C:\Users\benja\Downloads\VIMOD.Web\VIMOD.Domain\bin\Debug\net9.0\VIMOD.Domain.dll
+C:\Users\benja\Downloads\VIMOD.Web\VIMOD.Domain\bin\Debug\net9.0\VIMOD.Domain.pdb
+C:\Users\benja\Downloads\VIMOD.Web\VIMOD.Domain\obj\Debug\net9.0\VIMOD.Domain.csproj.AssemblyReference.cache
+C:\Users\benja\Downloads\VIMOD.Web\VIMOD.Domain\obj\Debug\net9.0\VIMOD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\Downloads\VIMOD.Web\VIMOD.Domain\obj\Debug\net9.0\VIMOD.Domain.AssemblyInfoInputs.cache
+C:\Users\benja\Downloads\VIMOD.Web\VIMOD.Domain\obj\Debug\net9.0\VIMOD.Domain.AssemblyInfo.cs
+C:\Users\benja\Downloads\VIMOD.Web\VIMOD.Domain\obj\Debug\net9.0\VIMOD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\benja\Downloads\VIMOD.Web\VIMOD.Domain\obj\Debug\net9.0\VIMOD.Domain.dll
+C:\Users\benja\Downloads\VIMOD.Web\VIMOD.Domain\obj\Debug\net9.0\refint\VIMOD.Domain.dll
+C:\Users\benja\Downloads\VIMOD.Web\VIMOD.Domain\obj\Debug\net9.0\VIMOD.Domain.pdb
+C:\Users\benja\Downloads\VIMOD.Web\VIMOD.Domain\obj\Debug\net9.0\VIMOD.Domain.genruntimeconfig.cache
+C:\Users\benja\Downloads\VIMOD.Web\VIMOD.Domain\obj\Debug\net9.0\ref\VIMOD.Domain.dll
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2025 - UPN\CALIDAD Y PRUEBAS DE SOFTWARE\SEMANA 1\VIMOD.Web\VIMOD.Domain\bin\Debug\net9.0\VIMOD.Domain.deps.json
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2025 - UPN\CALIDAD Y PRUEBAS DE SOFTWARE\SEMANA 1\VIMOD.Web\VIMOD.Domain\bin\Debug\net9.0\VIMOD.Domain.runtimeconfig.json
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2025 - UPN\CALIDAD Y PRUEBAS DE SOFTWARE\SEMANA 1\VIMOD.Web\VIMOD.Domain\bin\Debug\net9.0\VIMOD.Domain.dll
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2025 - UPN\CALIDAD Y PRUEBAS DE SOFTWARE\SEMANA 1\VIMOD.Web\VIMOD.Domain\bin\Debug\net9.0\VIMOD.Domain.pdb
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2025 - UPN\CALIDAD Y PRUEBAS DE SOFTWARE\SEMANA 1\VIMOD.Web\VIMOD.Domain\obj\Debug\net9.0\VIMOD.Domain.csproj.AssemblyReference.cache
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2025 - UPN\CALIDAD Y PRUEBAS DE SOFTWARE\SEMANA 1\VIMOD.Web\VIMOD.Domain\obj\Debug\net9.0\VIMOD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2025 - UPN\CALIDAD Y PRUEBAS DE SOFTWARE\SEMANA 1\VIMOD.Web\VIMOD.Domain\obj\Debug\net9.0\VIMOD.Domain.AssemblyInfoInputs.cache
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2025 - UPN\CALIDAD Y PRUEBAS DE SOFTWARE\SEMANA 1\VIMOD.Web\VIMOD.Domain\obj\Debug\net9.0\VIMOD.Domain.AssemblyInfo.cs
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2025 - UPN\CALIDAD Y PRUEBAS DE SOFTWARE\SEMANA 1\VIMOD.Web\VIMOD.Domain\obj\Debug\net9.0\VIMOD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2025 - UPN\CALIDAD Y PRUEBAS DE SOFTWARE\SEMANA 1\VIMOD.Web\VIMOD.Domain\obj\Debug\net9.0\VIMOD.Domain.dll
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2025 - UPN\CALIDAD Y PRUEBAS DE SOFTWARE\SEMANA 1\VIMOD.Web\VIMOD.Domain\obj\Debug\net9.0\refint\VIMOD.Domain.dll
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2025 - UPN\CALIDAD Y PRUEBAS DE SOFTWARE\SEMANA 1\VIMOD.Web\VIMOD.Domain\obj\Debug\net9.0\VIMOD.Domain.pdb
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2025 - UPN\CALIDAD Y PRUEBAS DE SOFTWARE\SEMANA 1\VIMOD.Web\VIMOD.Domain\obj\Debug\net9.0\VIMOD.Domain.genruntimeconfig.cache
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2025 - UPN\CALIDAD Y PRUEBAS DE SOFTWARE\SEMANA 1\VIMOD.Web\VIMOD.Domain\obj\Debug\net9.0\ref\VIMOD.Domain.dll
+C:\proyecto\VIMOD.Web\VIMOD.Domain\bin\Debug\net9.0\VIMOD.Domain.deps.json
+C:\proyecto\VIMOD.Web\VIMOD.Domain\bin\Debug\net9.0\VIMOD.Domain.runtimeconfig.json
+C:\proyecto\VIMOD.Web\VIMOD.Domain\bin\Debug\net9.0\VIMOD.Domain.dll
+C:\proyecto\VIMOD.Web\VIMOD.Domain\bin\Debug\net9.0\VIMOD.Domain.pdb
+C:\proyecto\VIMOD.Web\VIMOD.Domain\obj\Debug\net9.0\VIMOD.Domain.csproj.AssemblyReference.cache
+C:\proyecto\VIMOD.Web\VIMOD.Domain\obj\Debug\net9.0\VIMOD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyecto\VIMOD.Web\VIMOD.Domain\obj\Debug\net9.0\VIMOD.Domain.AssemblyInfoInputs.cache
+C:\proyecto\VIMOD.Web\VIMOD.Domain\obj\Debug\net9.0\VIMOD.Domain.AssemblyInfo.cs
+C:\proyecto\VIMOD.Web\VIMOD.Domain\obj\Debug\net9.0\VIMOD.Domain.csproj.CoreCompileInputs.cache
+C:\proyecto\VIMOD.Web\VIMOD.Domain\obj\Debug\net9.0\VIMOD.Domain.dll
+C:\proyecto\VIMOD.Web\VIMOD.Domain\obj\Debug\net9.0\refint\VIMOD.Domain.dll
+C:\proyecto\VIMOD.Web\VIMOD.Domain\obj\Debug\net9.0\VIMOD.Domain.pdb
+C:\proyecto\VIMOD.Web\VIMOD.Domain\obj\Debug\net9.0\VIMOD.Domain.genruntimeconfig.cache
+C:\proyecto\VIMOD.Web\VIMOD.Domain\obj\Debug\net9.0\ref\VIMOD.Domain.dll

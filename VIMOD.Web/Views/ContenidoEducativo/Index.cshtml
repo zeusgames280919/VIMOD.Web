@@ -1,0 +1,43 @@
+﻿@model IEnumerable<VIMOD.Domain.Models.ContenidoEducativo>
+
+@{
+    ViewData["Title"] = "Listado de Contenidos Educativos";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-success">➕ Nuevo Contenido</a>
+</p>
+
+<table class="table table-bordered table-striped">
+    <thead class="thead-dark">
+        <tr>
+            <th>Título</th>
+            <th>Descripción</th>
+            <th>URL</th>
+            <th>Curso</th>
+            <th>Fecha de Publicación</th>
+            <th>Activo</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Titulo</td>
+                <td>@item.Descripcion</td>
+                <td><a href="@item.UrlContenido" target="_blank">Ver</a></td>
+                <td>@item.Curso?.Nombre</td>
+                <td>@item.FechaPublicacion.ToShortDateString()</td>
+                <td>@(item.EsActivo ? "Sí" : "No")</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.ContenidoId" class="btn btn-info btn-sm">👁️ Detalles</a>
+                    <a asp-action="Edit" asp-route-id="@item.ContenidoId" class="btn btn-primary btn-sm">✏️ Editar</a>
+                    <a asp-action="Delete" asp-route-id="@item.ContenidoId" class="btn btn-danger btn-sm">🗑️ Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

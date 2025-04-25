@@ -1,0 +1,51 @@
+C:\Users\HP\OneDrive\Documentos\Visual Studio\Proyectos\VIMOD.Web\VIMOD.Infraestructure\bin\Debug\net8.0\VIMOD.Infraestructure.deps.json
+C:\Users\HP\OneDrive\Documentos\Visual Studio\Proyectos\VIMOD.Web\VIMOD.Infraestructure\bin\Debug\net8.0\VIMOD.Infraestructure.runtimeconfig.json
+C:\Users\HP\OneDrive\Documentos\Visual Studio\Proyectos\VIMOD.Web\VIMOD.Infraestructure\bin\Debug\net8.0\VIMOD.Infraestructure.dll
+C:\Users\HP\OneDrive\Documentos\Visual Studio\Proyectos\VIMOD.Web\VIMOD.Infraestructure\bin\Debug\net8.0\VIMOD.Infraestructure.pdb
+C:\Users\HP\OneDrive\Documentos\Visual Studio\Proyectos\VIMOD.Web\VIMOD.Infraestructure\bin\Debug\net8.0\VIMOD.Domain.dll
+C:\Users\HP\OneDrive\Documentos\Visual Studio\Proyectos\VIMOD.Web\VIMOD.Infraestructure\bin\Debug\net8.0\VIMOD.Domain.pdb
+C:\Users\HP\OneDrive\Documentos\Visual Studio\Proyectos\VIMOD.Web\VIMOD.Infraestructure\obj\Debug\net8.0\VIMOD.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Documentos\Visual Studio\Proyectos\VIMOD.Web\VIMOD.Infraestructure\obj\Debug\net8.0\VIMOD.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Documentos\Visual Studio\Proyectos\VIMOD.Web\VIMOD.Infraestructure\obj\Debug\net8.0\VIMOD.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Documentos\Visual Studio\Proyectos\VIMOD.Web\VIMOD.Infraestructure\obj\Debug\net8.0\VIMOD.Infraestructure.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Documentos\Visual Studio\Proyectos\VIMOD.Web\VIMOD.Infraestructure\obj\Debug\net8.0\VIMOD.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Documentos\Visual Studio\Proyectos\VIMOD.Web\VIMOD.Infraestructure\obj\Debug\net8.0\VIMOD.In.A32337F7.Up2Date
+C:\Users\HP\OneDrive\Documentos\Visual Studio\Proyectos\VIMOD.Web\VIMOD.Infraestructure\obj\Debug\net8.0\VIMOD.Infraestructure.dll
+C:\Users\HP\OneDrive\Documentos\Visual Studio\Proyectos\VIMOD.Web\VIMOD.Infraestructure\obj\Debug\net8.0\refint\VIMOD.Infraestructure.dll
+C:\Users\HP\OneDrive\Documentos\Visual Studio\Proyectos\VIMOD.Web\VIMOD.Infraestructure\obj\Debug\net8.0\VIMOD.Infraestructure.pdb
+C:\Users\HP\OneDrive\Documentos\Visual Studio\Proyectos\VIMOD.Web\VIMOD.Infraestructure\obj\Debug\net8.0\VIMOD.Infraestructure.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Documentos\Visual Studio\Proyectos\VIMOD.Web\VIMOD.Infraestructure\obj\Debug\net8.0\ref\VIMOD.Infraestructure.dll
+C:\Users\benja\Downloads\VIMOD.Web\VIMOD.Infraestructure\bin\Debug\net8.0\VIMOD.Infraestructure.deps.json
+C:\Users\benja\Downloads\VIMOD.Web\VIMOD.Infraestructure\bin\Debug\net8.0\VIMOD.Infraestructure.runtimeconfig.json
+C:\Users\benja\Downloads\VIMOD.Web\VIMOD.Infraestructure\bin\Debug\net8.0\VIMOD.Infraestructure.dll
+C:\Users\benja\Downloads\VIMOD.Web\VIMOD.Infraestructure\bin\Debug\net8.0\VIMOD.Infraestructure.pdb
+C:\Users\benja\Downloads\VIMOD.Web\VIMOD.Infraestructure\bin\Debug\net8.0\VIMOD.Domain.dll
+C:\Users\benja\Downloads\VIMOD.Web\VIMOD.Infraestructure\bin\Debug\net8.0\VIMOD.Domain.pdb
+C:\Users\benja\Downloads\VIMOD.Web\VIMOD.Infraestructure\obj\Debug\net8.0\VIMOD.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\benja\Downloads\VIMOD.Web\VIMOD.Infraestructure\obj\Debug\net8.0\VIMOD.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\Downloads\VIMOD.Web\VIMOD.Infraestructure\obj\Debug\net8.0\VIMOD.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\benja\Downloads\VIMOD.Web\VIMOD.Infraestructure\obj\Debug\net8.0\VIMOD.Infraestructure.AssemblyInfo.cs
+C:\Users\benja\Downloads\VIMOD.Web\VIMOD.Infraestructure\obj\Debug\net8.0\VIMOD.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\benja\Downloads\VIMOD.Web\VIMOD.Infraestructure\obj\Debug\net8.0\VIMOD.In.A32337F7.Up2Date
+C:\Users\benja\Downloads\VIMOD.Web\VIMOD.Infraestructure\obj\Debug\net8.0\VIMOD.Infraestructure.dll
+C:\Users\benja\Downloads\VIMOD.Web\VIMOD.Infraestructure\obj\Debug\net8.0\refint\VIMOD.Infraestructure.dll
+C:\Users\benja\Downloads\VIMOD.Web\VIMOD.Infraestructure\obj\Debug\net8.0\VIMOD.Infraestructure.pdb
+C:\Users\benja\Downloads\VIMOD.Web\VIMOD.Infraestructure\obj\Debug\net8.0\VIMOD.Infraestructure.genruntimeconfig.cache
+C:\Users\benja\Downloads\VIMOD.Web\VIMOD.Infraestructure\obj\Debug\net8.0\ref\VIMOD.Infraestructure.dll
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2024 - 2 UPN\DISEÑO Y ARQUITECTURA DE SOFTWARE\SEMANA 16\GRUPO_04_EF\PROYECTO\VIMOD.Web\VIMOD.Infraestructure\bin\Debug\net8.0\VIMOD.Infraestructure.deps.json
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2024 - 2 UPN\DISEÑO Y ARQUITECTURA DE SOFTWARE\SEMANA 16\GRUPO_04_EF\PROYECTO\VIMOD.Web\VIMOD.Infraestructure\bin\Debug\net8.0\VIMOD.Infraestructure.runtimeconfig.json
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2024 - 2 UPN\DISEÑO Y ARQUITECTURA DE SOFTWARE\SEMANA 16\GRUPO_04_EF\PROYECTO\VIMOD.Web\VIMOD.Infraestructure\bin\Debug\net8.0\VIMOD.Infraestructure.dll
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2024 - 2 UPN\DISEÑO Y ARQUITECTURA DE SOFTWARE\SEMANA 16\GRUPO_04_EF\PROYECTO\VIMOD.Web\VIMOD.Infraestructure\bin\Debug\net8.0\VIMOD.Infraestructure.pdb
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2024 - 2 UPN\DISEÑO Y ARQUITECTURA DE SOFTWARE\SEMANA 16\GRUPO_04_EF\PROYECTO\VIMOD.Web\VIMOD.Infraestructure\bin\Debug\net8.0\VIMOD.Domain.dll
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2024 - 2 UPN\DISEÑO Y ARQUITECTURA DE SOFTWARE\SEMANA 16\GRUPO_04_EF\PROYECTO\VIMOD.Web\VIMOD.Infraestructure\bin\Debug\net8.0\VIMOD.Domain.pdb
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2024 - 2 UPN\DISEÑO Y ARQUITECTURA DE SOFTWARE\SEMANA 16\GRUPO_04_EF\PROYECTO\VIMOD.Web\VIMOD.Infraestructure\obj\Debug\net8.0\VIMOD.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2024 - 2 UPN\DISEÑO Y ARQUITECTURA DE SOFTWARE\SEMANA 16\GRUPO_04_EF\PROYECTO\VIMOD.Web\VIMOD.Infraestructure\obj\Debug\net8.0\VIMOD.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2024 - 2 UPN\DISEÑO Y ARQUITECTURA DE SOFTWARE\SEMANA 16\GRUPO_04_EF\PROYECTO\VIMOD.Web\VIMOD.Infraestructure\obj\Debug\net8.0\VIMOD.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2024 - 2 UPN\DISEÑO Y ARQUITECTURA DE SOFTWARE\SEMANA 16\GRUPO_04_EF\PROYECTO\VIMOD.Web\VIMOD.Infraestructure\obj\Debug\net8.0\VIMOD.Infraestructure.AssemblyInfo.cs
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2024 - 2 UPN\DISEÑO Y ARQUITECTURA DE SOFTWARE\SEMANA 16\GRUPO_04_EF\PROYECTO\VIMOD.Web\VIMOD.Infraestructure\obj\Debug\net8.0\VIMOD.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2024 - 2 UPN\DISEÑO Y ARQUITECTURA DE SOFTWARE\SEMANA 16\GRUPO_04_EF\PROYECTO\VIMOD.Web\VIMOD.Infraestructure\obj\Debug\net8.0\VIMOD.In.A32337F7.Up2Date
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2024 - 2 UPN\DISEÑO Y ARQUITECTURA DE SOFTWARE\SEMANA 16\GRUPO_04_EF\PROYECTO\VIMOD.Web\VIMOD.Infraestructure\obj\Debug\net8.0\VIMOD.Infraestructure.dll
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2024 - 2 UPN\DISEÑO Y ARQUITECTURA DE SOFTWARE\SEMANA 16\GRUPO_04_EF\PROYECTO\VIMOD.Web\VIMOD.Infraestructure\obj\Debug\net8.0\refint\VIMOD.Infraestructure.dll
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2024 - 2 UPN\DISEÑO Y ARQUITECTURA DE SOFTWARE\SEMANA 16\GRUPO_04_EF\PROYECTO\VIMOD.Web\VIMOD.Infraestructure\obj\Debug\net8.0\VIMOD.Infraestructure.pdb
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2024 - 2 UPN\DISEÑO Y ARQUITECTURA DE SOFTWARE\SEMANA 16\GRUPO_04_EF\PROYECTO\VIMOD.Web\VIMOD.Infraestructure\obj\Debug\net8.0\VIMOD.Infraestructure.genruntimeconfig.cache
+C:\Users\benja\OneDrive\Documentos\UPN\CICLO 2024 - 2 UPN\DISEÑO Y ARQUITECTURA DE SOFTWARE\SEMANA 16\GRUPO_04_EF\PROYECTO\VIMOD.Web\VIMOD.Infraestructure\obj\Debug\net8.0\ref\VIMOD.Infraestructure.dll

@@ -30,6 +30,7 @@ C:\proyecto\VIMOD.Web\VIMOD.Repositories\obj\Debug\net9.0\VIMOD.Repositories.Gen
 C:\proyecto\VIMOD.Web\VIMOD.Repositories\obj\Debug\net9.0\VIMOD.Repositories.AssemblyInfoInputs.cache
 C:\proyecto\VIMOD.Web\VIMOD.Repositories\obj\Debug\net9.0\VIMOD.Repositories.AssemblyInfo.cs
 C:\proyecto\VIMOD.Web\VIMOD.Repositories\obj\Debug\net9.0\VIMOD.Repositories.csproj.CoreCompileInputs.cache
+C:\proyecto\VIMOD.Web\VIMOD.Repositories\obj\Debug\net9.0\VIMOD.Repositories.sourcelink.json
 C:\proyecto\VIMOD.Web\VIMOD.Repositories\obj\Debug\net9.0\VIMOD.Re.07FA3D5B.Up2Date
 C:\proyecto\VIMOD.Web\VIMOD.Repositories\obj\Debug\net9.0\VIMOD.Repositories.dll
 C:\proyecto\VIMOD.Web\VIMOD.Repositories\obj\Debug\net9.0\refint\VIMOD.Repositories.dll

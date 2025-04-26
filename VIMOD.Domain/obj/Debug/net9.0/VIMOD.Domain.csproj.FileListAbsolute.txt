@@ -35,6 +35,7 @@ C:\proyecto\VIMOD.Web\VIMOD.Domain\obj\Debug\net9.0\VIMOD.Domain.GeneratedMSBuil
 C:\proyecto\VIMOD.Web\VIMOD.Domain\obj\Debug\net9.0\VIMOD.Domain.AssemblyInfoInputs.cache
 C:\proyecto\VIMOD.Web\VIMOD.Domain\obj\Debug\net9.0\VIMOD.Domain.AssemblyInfo.cs
 C:\proyecto\VIMOD.Web\VIMOD.Domain\obj\Debug\net9.0\VIMOD.Domain.csproj.CoreCompileInputs.cache
+C:\proyecto\VIMOD.Web\VIMOD.Domain\obj\Debug\net9.0\VIMOD.Domain.sourcelink.json
 C:\proyecto\VIMOD.Web\VIMOD.Domain\obj\Debug\net9.0\VIMOD.Domain.dll
 C:\proyecto\VIMOD.Web\VIMOD.Domain\obj\Debug\net9.0\refint\VIMOD.Domain.dll
 C:\proyecto\VIMOD.Web\VIMOD.Domain\obj\Debug\net9.0\VIMOD.Domain.pdb

@@ -683,6 +683,7 @@ C:\proyecto\VIMOD.Web\VIMOD.Web\obj\Debug\net9.0\VIMOD.Web.MvcApplicationPartsAs
 C:\proyecto\VIMOD.Web\VIMOD.Web\obj\Debug\net9.0\VIMOD.Web.MvcApplicationPartsAssemblyInfo.cache
 C:\proyecto\VIMOD.Web\VIMOD.Web\obj\Debug\net9.0\VIMOD.Web.RazorAssemblyInfo.cache
 C:\proyecto\VIMOD.Web\VIMOD.Web\obj\Debug\net9.0\VIMOD.Web.RazorAssemblyInfo.cs
+C:\proyecto\VIMOD.Web\VIMOD.Web\obj\Debug\net9.0\VIMOD.Web.sourcelink.json
 C:\proyecto\VIMOD.Web\VIMOD.Web\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\proyecto\VIMOD.Web\VIMOD.Web\obj\Debug\net9.0\scopedcss\bundle\VIMOD.Web.styles.css
 C:\proyecto\VIMOD.Web\VIMOD.Web\obj\Debug\net9.0\scopedcss\projectbundle\VIMOD.Web.bundle.scp.css

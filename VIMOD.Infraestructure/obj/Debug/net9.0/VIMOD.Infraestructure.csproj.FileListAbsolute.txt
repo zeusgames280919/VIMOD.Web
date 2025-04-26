@@ -26,6 +26,7 @@ C:\proyecto\VIMOD.Web\VIMOD.Infraestructure\obj\Debug\net9.0\VIMOD.Infraestructu
 C:\proyecto\VIMOD.Web\VIMOD.Infraestructure\obj\Debug\net9.0\VIMOD.Infraestructure.AssemblyInfoInputs.cache
 C:\proyecto\VIMOD.Web\VIMOD.Infraestructure\obj\Debug\net9.0\VIMOD.Infraestructure.AssemblyInfo.cs
 C:\proyecto\VIMOD.Web\VIMOD.Infraestructure\obj\Debug\net9.0\VIMOD.Infraestructure.csproj.CoreCompileInputs.cache
+C:\proyecto\VIMOD.Web\VIMOD.Infraestructure\obj\Debug\net9.0\VIMOD.Infraestructure.sourcelink.json
 C:\proyecto\VIMOD.Web\VIMOD.Infraestructure\obj\Debug\net9.0\VIMOD.In.A32337F7.Up2Date
 C:\proyecto\VIMOD.Web\VIMOD.Infraestructure\obj\Debug\net9.0\VIMOD.Infraestructure.dll
 C:\proyecto\VIMOD.Web\VIMOD.Infraestructure\obj\Debug\net9.0\refint\VIMOD.Infraestructure.dll
